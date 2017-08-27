@@ -1,4 +1,4 @@
-<?php include_once("php_includes/check_login_status.php");?>
+<?php include_once("src/php_includes/check_login_status.php");?>
 <!DOCTYPE html>
 <html>
 <head>
