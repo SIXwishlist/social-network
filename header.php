@@ -1,6 +1,6 @@
 <?php
 // It is important for any file that includes this file, to have
-// check_login_status.php included at its very top.
+// check_login_status.php.
 $envelope = '<img src=# width="22" height="12" alt="Notes" title="This envelope is for logged in members">';
 
 
